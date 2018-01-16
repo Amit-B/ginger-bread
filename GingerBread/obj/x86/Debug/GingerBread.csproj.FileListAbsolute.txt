@@ -1,0 +1,9 @@
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\GingerBread.Form1.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\GingerBread.Properties.Resources.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\bin\Debug\GingerBread.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\bin\Debug\GingerBread.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\GingerBread.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\GingerBread\GingerBread\obj\x86\Debug\GingerBread.pdb
